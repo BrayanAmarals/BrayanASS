@@ -1,4 +1,4 @@
-## Hello i'm Brayan 😎
+## Hello, i'm Brayan 😎
 
 💻 Currently work with Front-end and UI Design;
 
