@@ -12,7 +12,7 @@
   <img align="center" alt="braia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="braia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="braia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="braia-gif" height="200" src="https://media.giphy.com/media/6RsYcS66Iso0/giphy.gif">
+  <img align="right" alt="braia-gif" height="150" src="https://media.giphy.com/media/6RsYcS66Iso0/giphy.gif">
 </div>
   
   ##
