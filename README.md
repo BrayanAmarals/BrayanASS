@@ -1,8 +1,6 @@
 ## Hello, i'm Brayan 😎
 
-💻 Currently work with Front-end and UI/UX Design;
-
-📚 Studying JavaScript and React;
+💻 Working with JavaScript, ReactJS/NextJS and Figma for UI/UX Design;
 
 📩 Contact: brayanamarals01@gmail.com;
 
