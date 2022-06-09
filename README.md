@@ -1,6 +1,6 @@
 ## Hello, i'm Brayan 😎
 
-💻 Currently work with Front-end and UI Design;
+💻 Currently work with Front-end and UI/UX Design;
 
 📚 Studying JavaScript and React;
 
