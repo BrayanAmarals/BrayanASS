@@ -1,8 +1,10 @@
 ## Hello, i'm Brayan 😎
 
 💻 Working with JavaScript, ReactJS/NextJS and Figma for UI/UX Design;
-⌨️ My website: https://brayan-amaral-eight.vercel.app
+
 📩 Contact: brayanamarals01@gmail.com;
+
+⌨️ My website: https://brayan-amaral-eight.vercel.app;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="braia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
