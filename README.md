@@ -14,12 +14,5 @@
   <img align="center" alt="braia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="braia-gif" height="150" src="https://media.giphy.com/media/6RsYcS66Iso0/giphy.gif">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/brayan_amarals" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brayanamarals01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-</div>
 
 
